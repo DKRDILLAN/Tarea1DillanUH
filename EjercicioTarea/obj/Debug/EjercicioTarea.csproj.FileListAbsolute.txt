@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\EjercicioTarea\EjercicioTarea\bin\Debug\EjercicioTarea.exe.config
+C:\Users\Usuario\source\repos\EjercicioTarea\EjercicioTarea\bin\Debug\EjercicioTarea.exe
+C:\Users\Usuario\source\repos\EjercicioTarea\EjercicioTarea\bin\Debug\EjercicioTarea.pdb
+C:\Users\Usuario\source\repos\EjercicioTarea\EjercicioTarea\obj\Debug\EjercicioTarea.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EjercicioTarea\EjercicioTarea\obj\Debug\EjercicioTarea.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\EjercicioTarea\EjercicioTarea\obj\Debug\EjercicioTarea.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjercicioTarea\EjercicioTarea\obj\Debug\EjercicioTarea.exe
+C:\Users\Usuario\source\repos\EjercicioTarea\EjercicioTarea\obj\Debug\EjercicioTarea.pdb
